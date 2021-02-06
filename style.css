@@ -1,0 +1,48 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(244, 245, 199);
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+p{
+    font-size: 16px;
+    font-weight: 500;
+}
+img{
+    padding: 10px;
+    width: 70%;
+    height: 150px;
+}
+.body{
+    margin: 0px;
+    background-color:lightgrey;
+    border: 2px solid lightslategrey;
+    border-radius: 5px;
+}
+section .card{
+    margin: 0 auto;
+    padding-bottom: 0px;
+}
+.footer{
+    padding-bottom: 10px;
+} 
+#Data{
+    display: none;
+}
+.dataimg{
+width: 300px;
+}
+table tr td{
+    padding-left: 10px;
+}
+
+
+
